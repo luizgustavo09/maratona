@@ -2,5 +2,5 @@
 
 Criei este repositório com o intuito de guardar algoritmos desenvolvidos por mim na resolução de problemas de maratona
 
-#Cursos em progresso#
+# Cursos em progresso
 ITMO pilot course: https://codeforces.com/edu/course/2
